@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "TIL THEN",
+  "base_artist": "Jordan Ward",
+  "createdAt": "2026-03-13T06:30:05.400074Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Til Then",
+      "artist": "Elizabeth Cook",
+      "has_synced": false,
+      "path": "select/01_Til_Then_Elizabeth_Cook.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Til Then",
+      "artist": "Cook, Elizabeth",
+      "has_synced": false,
+      "path": "select/02_Til_Then_Cook,_Elizabeth.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "'til Then",
+      "artist": "Dean Martin",
+      "has_synced": true,
+      "path": "select/03_'til_Then_Dean_Martin.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Til Then",
+      "artist": "13th Floor Elevators",
+      "has_synced": true,
+      "path": "select/04_Til_Then_13th_Floor_Elevators.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Til Then",
+      "artist": "Andy Williams",
+      "has_synced": false,
+      "path": "select/05_Til_Then_Andy_Williams.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Til Then",
+      "artist": "13th Floor Elevators",
+      "has_synced": false,
+      "path": "select/06_Til_Then_13th_Floor_Elevators.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Til Then My Love",
+      "artist": "Matt Monro",
+      "has_synced": false,
+      "path": "select/07_Til_Then_My_Love_Matt_Monro.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "'Til Then",
+      "artist": "4ordained",
+      "has_synced": false,
+      "path": "select/08_'Til_Then_4ordained.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Here's 'til Then",
+      "artist": "Clifford T. Ward",
+      "has_synced": false,
+      "path": "select/09_Here's_'til_Then_Clifford_T._Ward.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Til Then (Beauty track)",
+      "artist": "13th Floor Elevators",
+      "has_synced": true,
+      "path": "select/10_Til_Then_(Beauty_track)_13th_Floor_Elevators.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "TIL THEN",
+      "artist": "Jordan Ward",
+      "has_synced": false,
+      "path": "select/pl_01_TIL_THEN_Jordan_Ward.txt"
+    }
+  ]
+}
